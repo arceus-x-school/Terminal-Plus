@@ -1,6 +1,6 @@
 import subprocess
 import shlex
-#by @frogs_on_shoes
+#by tiktok @frogs_on_shoes Github @dachos
 for clear in range(100): print()
 while True:
     try:
